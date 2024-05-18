@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![banner]()
-<h1 align="center">### Hi there 👋 👋 I'm Daniel Osuoha</h1>
+<h1 align="center">Hi there 👋 I'm Daniel Osuoha</h1>
 <h3 align="center">I am currently pursuing a degree in Computer Science with a double major in Cloud Computing & Cybersecurity at Grambling State University, Class of 2027. I am dedicated to leveraging technology for innovative solutions and enhanced security.</h3>
 
  <br />
@@ -27,7 +27,7 @@ I have a passion for programming in Python and Java. Currently, I am seeking Sof
  <br />
  <br />
 
-<h2>🖥️ Projects :</h2>
+<h3>🖥️ Projects :</h2>
 
 <div>
 
