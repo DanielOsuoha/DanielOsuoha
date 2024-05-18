@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![banner](https://i.imgur.com/6mbXVX8.png)
+<!-![banner](https://i.imgur.com/6mbXVX8.png)-->
 <h1 align="center">Hello, world! 👋 I'm Daniel Osuoha</h1>
 <h3 align="center">A passionate Cloud Computing & Cybersecurity professional committed to leveraging technology for innovative solutions and enhanced security</h3>
  <br />
