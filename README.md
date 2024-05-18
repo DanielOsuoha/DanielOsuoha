@@ -44,15 +44,6 @@ I have a passion for programming in Python and Java. Currently, I am seeking Sof
   
  <br />
 
-<h2>📲 Connect with me:</h2>
-  
-[<img align="left" alt="Daniel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Daniel | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-
-[linkedin]: https://www.linkedin.com/in/danielosuoha
-[github]: https://github.com/DanielOsuoha
-
-
 
 <h2> 🤳 Connect with me:</h2>
 
