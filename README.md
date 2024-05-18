@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hi, I'm Daniel! <br/><a href="https://github.com/danielosuoha">Programmer</a>, <a href="https://www.linkedin.com/in/danielosuoha/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Daniel! <br/><a href="https://github.com/danielosuoha">Programmer</a>, <a href="https://www.linkedin.com/in/danielosuoha/">Cybersecurity</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
