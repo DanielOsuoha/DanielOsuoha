@@ -14,20 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-![banner](https://i.imgur.com/6mbXVX8.png)-->
+![banner]()
 <h1 align="center">Hello, world! 👋 I'm Daniel Osuoha</h1>
 <h3 align="center">A passionate Cloud Computing & Cybersecurity professional committed to leveraging technology for innovative solutions and enhanced security</h3>
  <br />
 
 Thank you for visiting my GitHub! This repository is meant to showcase my journey in cloud computing, cybersecurity, and software development, highlighting the projects I've had the privilege of working on.
 
-I've had the honor of working in various tech-related positions over the past few years. From conducting smart contract vulnerability analysis to exploring data analytics, I am driven by the urge to solve challenges and enhance user experiences through technology. My diverse experiences have helped me develop a solid set of skills and have shaped my perspective on the digital world. 
 
-I have a deep love for programming in Python and Java, which has enabled me to create robust applications and explore complex algorithms. As a member of the Class of 2027 at Grambling State University, my main aim now is to gain more experience through internships and further my expertise in cloud computing and cybersecurity.
-
-I invite you to explore my GitHub portfolio to get a glimpse into my technical capabilities. These projects showcase insights into my problem-solving approach, attention to detail, and ability to analyze risks and implement appropriate mitigation strategies.
-
----
+I have a love programming in Python and Java. 
+I am currently seeking Sofware Engineering and Cybersecurity Internships to gain professional experience and further hone my skills.
 
  <br />
  <br />
@@ -63,6 +59,6 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 
 [<img align="left" alt="DanielOsuoha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="DanielOsuoha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+Feel free to reach out.
 [instagram]: https://www.instagram.com/dan_osuoha/
 [linkedin]: https://linkedin.com/in/danielosuoha/
