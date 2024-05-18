@@ -34,12 +34,10 @@ I have a passion for programming in Python and Java. Currently, I am seeking Sof
 <h2>👨🏻‍💻 🌎 🔐 Cloud Computing / Cybersecurity Projects 👨🏻‍💻 🌎 🔐</h2>
  <br />
   
-  - [Stock and Crypto Price Tracker with Prediction](https://github.com/DanielOsuoha/Stock-Crypto-Price-Tracker)
-  - [Banking Application](https://github.com/DanielOsuoha/Banking-Application)
+
   - [Enhanced Library Management System with OAuth Authentication](https://github.com/DanielOsuoha/Library-Management-System)
   - [PyBrowse: A Modern Web Browser](https://github.com/DanielOsuoha/PyBrowse)
   - [Automated System Management Suite](https://github.com/DanielOsuoha/Automated-System-Management-Suite)
-    
 ---
   
  <br />
