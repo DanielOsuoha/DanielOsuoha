@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![banner](https://github.com/DanielOsuoha/DanielOsuoha/assets/122853068/d0cdd950-bc77-4ad7-92ff-0adc5e4b212a)
+![banner](https://github.com/DanielOsuoha/DanielOsuoha/assets/122853068/df16838b-278b-49bc-96de-6e0c58cbe59a)
+
 
 <h1 align="center">Hi there 👋 I'm Daniel Osuoha</h1>
 <h3 align="center">I am currently pursuing a degree in Computer Science with a double major in Cloud Computing & Cybersecurity at Grambling State University, Class of 2027. I am dedicated to leveraging technology for innovative solutions and enhanced security.</h3>
