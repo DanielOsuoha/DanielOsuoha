@@ -38,7 +38,7 @@ I have a passion for programming in Python and Java. Currently, I am seeking Sof
  <br />
   
 
-  - [Enhanced Library Management System with OAuth Authentication](https://github.com/DanielOsuoha/Library-Management-System)
+  - [Enhanced Library Management System with OAuth Authentication](https://github.com/DanielOsuoha/library-management-system)
   - [PyBrowse: A Modern Web Browser](https://github.com/DanielOsuoha/PyBrowse)
   - [Automated System Management Suite](https://github.com/DanielOsuoha/Automated-System-Management-Suite)
 ---
