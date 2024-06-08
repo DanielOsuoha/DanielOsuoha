@@ -30,24 +30,8 @@ I have a passion for programming in Python and Java. Currently, I am seeking Sof
  <br />
  <br />
 
-<h3>🖥️ Projects :</h2>
-
-<div>
-
-<!-<h2>👨🏻‍💻 🌎 🔐 Cloud Computing / Cybersecurity Projects 👨🏻‍💻 🌎 🔐</h2>
- <br />
-  
-
-  - [Enhanced Library Management System with OAuth Authentication](https://github.com/DanielOsuoha/library-management-system)
-  - [PyBrowse: A Modern Web Browser](https://github.com/DanielOsuoha/PyBrowse)
-  - [Automated System Management Suite](https://github.com/DanielOsuoha/Automated-System-Management-Suite)
----
-  -->
- <br />
-
-
 <h2> 🤳 Connect with me:</h2>
 <img align="left" alt="DanielOsuoha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 <img align="left" alt="DanielOsuoha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
-[instagram](https://www.instagram.com/dan_osuoha/)
-[linkedin](https://linkedin.com/in/danielosuoha/)
+![instagram](https://www.instagram.com/dan_osuoha/)
+![linkedin](https://linkedin.com/in/danielosuoha/)
