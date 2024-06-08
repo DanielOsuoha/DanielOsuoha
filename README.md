@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi there 👋 I'm Daniel Osuoha</h1>
-<h3 align="center">I am currently pursuing a degree in Computer Science with a double major in Cloud Computing & Cybersecurity at Grambling State University, Class of 2027. I am dedicated to leveraging technology for innovative solutions and enhanced security.</h3>
+<h3 align="center">I am currently pursuing a degree in Computer Science with a double major in Cloud Computing & Cybersecurity at Grambling State University. I am dedicated to leveraging technology for innovative solutions and enhanced security.</h3>
 
  <br />
 
