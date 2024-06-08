@@ -34,7 +34,7 @@ I have a passion for programming in Python and Java. Currently, I am seeking Sof
 
 <div>
 
-<h2>👨🏻‍💻 🌎 🔐 Cloud Computing / Cybersecurity Projects 👨🏻‍💻 🌎 🔐</h2>
+<--<h2>👨🏻‍💻 🌎 🔐 Cloud Computing / Cybersecurity Projects 👨🏻‍💻 🌎 🔐</h2>
  <br />
   
 
@@ -42,7 +42,7 @@ I have a passion for programming in Python and Java. Currently, I am seeking Sof
   - [PyBrowse: A Modern Web Browser](https://github.com/DanielOsuoha/PyBrowse)
   - [Automated System Management Suite](https://github.com/DanielOsuoha/Automated-System-Management-Suite)
 ---
-  
+  -->
  <br />
 
 
