@@ -34,7 +34,7 @@ I have a passion for programming in Python and Java. Currently, I am seeking Sof
 
 <div>
 
-<--<h2>👨🏻‍💻 🌎 🔐 Cloud Computing / Cybersecurity Projects 👨🏻‍💻 🌎 🔐</h2>
+<!-<h2>👨🏻‍💻 🌎 🔐 Cloud Computing / Cybersecurity Projects 👨🏻‍💻 🌎 🔐</h2>
  <br />
   
 
