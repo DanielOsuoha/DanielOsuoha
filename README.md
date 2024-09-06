@@ -57,9 +57,9 @@ I’m passionate about **cloud computing**, **software development**, and **data
 
 | Project | Description | Tech Stack | View |
 |---------|-------------|------------|------|
-| **🔮 Stock and Crypto Price Tracker with Prediction** | A real-time price tracker with TensorFlow-based prediction models. | Python, Flask, TensorFlow | ![Demo](https://media.giphy.com/media/YOUR_GIF_URL_HERE.gif) |
-| **🚀 MultiCloud Deployment and Application Migration** | Multi-cloud deployment automation using Terraform and Kubernetes. | AWS, Google Cloud, Terraform, Kubernetes | ![Demo](https://media.giphy.com/media/YOUR_GIF_URL_HERE.gif) |
-| **🏦 Banking Application** | A secure online banking system with multi-factor authentication. | Java, Spring Boot, MySQL | ![Demo](https://media.giphy.com/media/YOUR_GIF_URL_HERE.gif) |
+| **🔮 Stock and Crypto Price Tracker with Prediction** | A real-time price tracker with TensorFlow-based prediction models. | Python, Flask, TensorFlow | ![Demo](https://github.com/DanielOsuoha/Stock-Price-Tracker) |
+| **🚀 MultiCloud Deployment and Application Migration** | Multi-cloud deployment automation using Terraform and Kubernetes. | AWS, Google Cloud, Terraform, Kubernetes | ![Demo](https://github.com/DanielOsuoha/multi-cloud-deployment) |
+| **🏦 Banking Application** | A secure online banking system with multi-factor authentication. | Java, Spring Boot, MySQL | ![Demo](https://github.com/DanielOsuoha/Banking-App) |
 
 ➡️ [View other projects](https://github.com/DanielOsuoha?tab=repositories)
 
