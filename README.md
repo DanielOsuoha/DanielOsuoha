@@ -75,7 +75,7 @@ I’m passionate about **cloud computing**, **software development**, and **data
 In my free time, I keep up with recent trends, engage in competitive programming, and I play tennis sometimes.
 
 ---
-<!-
+<!--
 ## 📊 GitHub Stats
 
 <p align="left">
