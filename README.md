@@ -55,7 +55,7 @@ I’m passionate about **cloud computing**, **software development**, and **data
 
 ## 💼 Featured Projects
 
-| Project | Description | Tech Stack | Demo |
+| Project | Description | Tech Stack | View |
 |---------|-------------|------------|------|
 | **🔮 Stock and Crypto Price Tracker with Prediction** | A real-time price tracker with TensorFlow-based prediction models. | Python, Flask, TensorFlow | ![Demo](https://media.giphy.com/media/YOUR_GIF_URL_HERE.gif) |
 | **🚀 MultiCloud Deployment and Application Migration** | Multi-cloud deployment automation using Terraform and Kubernetes. | AWS, Google Cloud, Terraform, Kubernetes | ![Demo](https://media.giphy.com/media/YOUR_GIF_URL_HERE.gif) |
