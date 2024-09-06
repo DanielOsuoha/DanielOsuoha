@@ -1,7 +1,7 @@
 ![banner](https://github.com/DanielOsuoha/DanielOsuoha/assets/122853068/df16838b-278b-49bc-96de-6e0c58cbe59a)
 
 <h1 align="center">Hi there 👋 I'm Daniel Osuoha</h1>
-<h3 align="center">I am currently pursuing a degree in Computer Science with a double major in Cloud Computing & Cybersecurity at Grambling State University. I am dedicated to leveraging technology for innovative solutions in Software Engineering, Product Management, and Quant roles.</h3>
+<h3 align="center">I am currently pursuing a degree in Computer Science & Cybersecurity at Grambling State University. I am dedicated to leveraging technology for innovative solutions in Software Engineering, Product Management, and Quant roles.</h3>
 
 ---
 
@@ -11,9 +11,9 @@ I’m passionate about **cloud computing**, **software development**, and **data
 ### 🔭 I’m currently working on:
 **Real-Time Credit Card Fraud Detection System**  
 *Technologies: Apache Spark, Kafka, Cassandra, Java, Scala, Airflow*  
-- Developed a real-time fraud detection system using Apache Spark for distributed processing and Kafka for streaming transaction data.
-- Implemented machine learning models with Spark ML, utilizing techniques like StringIndexer and VectorAssembler for effective data classification.
-- Automated workflows using Apache Airflow to schedule and monitor Spark jobs, ensuring reliable and efficient fraud detection.
+- A real-time fraud detection system using Apache Spark for distributed processing and Kafka for streaming transaction data.
+- Implementing machine learning models with Spark ML, utilizing techniques like StringIndexer and VectorAssembler for effective data classification.
+- Automating workflows using Apache Airflow to schedule and monitor Spark jobs, ensuring reliable and efficient fraud detection.
 
 ### 🌱 I’m currently learning:
 **React and Machine Learning**
@@ -85,6 +85,7 @@ In my free time, I keep up with recent trends, engage in competitive programming
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielOsuoha&theme=tokyonight" alt="Daniel's Streak Stats" />
 </p>
+
 
 ---
 
