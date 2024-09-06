@@ -74,8 +74,8 @@ I’m passionate about **cloud computing**, **software development**, and **data
 ## ⚡ Fun fact and Interests:
 In my free time, I keep up with recent trends, engage in competitive programming, and I play tennis sometimes.
 
----
 <!--
+---
 ## 📊 GitHub Stats
 
 <p align="left">
@@ -86,8 +86,8 @@ In my free time, I keep up with recent trends, engage in competitive programming
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielOsuoha&theme=tokyonight" alt="Daniel's Streak Stats" />
 </p>
 
--->
 ---
+-->
 
 ## 🌐 Connect with Me
 
