@@ -1,6 +1,6 @@
 ![banner](https://github.com/DanielOsuoha/DanielOsuoha/assets/122853068/df16838b-278b-49bc-96de-6e0c58cbe59a)
 
-<h1 align="center">Hi there 👋 I am Daniel Osuoha</h1>
+<h1 align="center">Hi, I am Daniel Osuoha</h1>
 <h4 align="center">I am currently pursuing a degree in Computer Science & Cybersecurity at Grambling State University. I am dedicated to leveraging technology for innovative solutions in Software Engineering, Product Management, and Quant roles.</h3>
 
 ---
