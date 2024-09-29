@@ -1,12 +1,12 @@
 ![banner](https://github.com/DanielOsuoha/DanielOsuoha/assets/122853068/df16838b-278b-49bc-96de-6e0c58cbe59a)
 
 <h1 align="center">Hi, I am Daniel Osuoha</h1>
-<h4 align="center">I am currently pursuing a degree in Computer Science & Cybersecurity at Grambling State University. I am dedicated to leveraging technology for innovative solutions in Software Engineering, Product Management, and Quant roles.</h3>
+<h4 align="center">I am currently pursuing a degree in Computer Science & Cybersecurity at Grambling State University. I am dedicated to leveraging technology for innovative solutions and am interested in Software Engineering internships.</h3>
 
 ---
 
 ## 🔭 About Me
-I’m passionate about **cloud computing**, **software development**, and **data analysis**. This GitHub repository is a testament to my learning journey and showcases my hands-on projects. Currently, I am looking for **Software Engineering**, **Product Management**, and **Quant internships** to further sharpen my skills.
+I am passionate about **cloud computing**, **software development**, and **data analysis**. This GitHub repository is a meant to showcase my learning journey and hands-on projects. Currently, I am looking for **Software Engineering**, **Product Management**, and **Quant internships** to further sharpen my skills.
 
 ### I am currently working on:
 **Real-Time Credit Card Fraud Detection System**  
