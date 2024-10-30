@@ -1,5 +1,8 @@
 ![banner](https://github.com/DanielOsuoha/DanielOsuoha/assets/122853068/df16838b-278b-49bc-96de-6e0c58cbe59a)
 
+![Typing animation](typing-effect.gif)
+
+
 <h1 align="center">Hi, I am Daniel Osuoha</h1>
 <h4 align="center">I am currently pursuing a degree in Computer Science & Cybersecurity at Grambling State University. I am dedicated to leveraging technology for innovative solutions and am interested in Software Engineering internships.</h3>
 
