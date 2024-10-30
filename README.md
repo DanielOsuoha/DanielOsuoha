@@ -1,6 +1,6 @@
 ![banner](https://github.com/DanielOsuoha/DanielOsuoha/assets/122853068/df16838b-278b-49bc-96de-6e0c58cbe59a)
 
-![Typing animation](typing-effect.gif)
+![Typing animation](typing_name.gif)
 
 
 <h1 align="center">Hi, I am Daniel Osuoha</h1>
