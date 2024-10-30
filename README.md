@@ -1,6 +1,6 @@
 ![banner](https://github.com/DanielOsuoha/DanielOsuoha/assets/122853068/df16838b-278b-49bc-96de-6e0c58cbe59a)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4999&pause=1000&color=F48F20&background=4C5B672F&center=true&vCenter=true&width=680&height=80&lines=Hi%2C+I+am+Daniel+Osuoha+%F0%9F%91%8B%F0%9F%8F%BD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4999&pause=1000&color=F48F20&background=4C5B672F&center=true&vCenter=true&width=950&height=85&lines=Hi%2C+I+am+Daniel+Osuoha+%F0%9F%91%8B%F0%9F%8F%BD)](https://git.io/typing-svg)
 
 
 <h1 align="center">Hi, I am Daniel Osuoha</h1>
