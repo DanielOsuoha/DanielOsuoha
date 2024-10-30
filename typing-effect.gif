@@ -1,0 +1,4 @@
+<svg width="300" height="100">
+  <text x="10" y="40" font-size="20" fill="black">Hi, My name is Danie</text>
+  <animate attributeName="x" from="0" to="100" dur="2s" repeatCount="indefinite" />
+</svg>
