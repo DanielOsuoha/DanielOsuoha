@@ -8,7 +8,7 @@
 ---
 
 ## 🔭 About Me
-I am passionate about **cloud computing**, **software development**, and **data analysis**. This GitHub repository is a meant to showcase my learning journey and hands-on projects. Currently, I am looking for **Software Engineering**, **Product Management**, and **Quant internships** to further sharpen my skills.
+I am passionate about **software development**, **Fintech**, and **data analysis**. This GitHub repository is a meant to showcase my learning journey and hands-on projects. Currently, I am looking for **Software Engineering**, **Product Management**, and **Quant internships** to further sharpen my skills.
 
 ### I am currently working on:
 **Real-Time Credit Card Fraud Detection System**  
@@ -78,8 +78,6 @@ I am passionate about **cloud computing**, **software development**, and **data 
 ## 💬 Ask me about ...
 - Software Engineering processes, Product Management strategies, or Data Analysis techniques.
 
-## 📫 How to reach me:
-- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/danielosuoha/) or [Instagram](https://www.instagram.com/dan_osuoha/).
 
 ## ⚡ Fun fact and Interests:
 In my free time, I keep up with recent trends, engage in competitive programming, and I play tennis sometimes.
@@ -99,13 +97,13 @@ In my free time, I keep up with recent trends, engage in competitive programming
 ---
 -->
 
-## 🌐 Connect with Me
+ ![](https://komarev.com/ghpvc/?username=danielosuoha&color=1E90FF&style=for-the-badge)
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/danielosuoha/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/danielosuoha/" target="_blank" style="margin-right: 5px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 5px;" />
   </a>
   <a href="https://www.instagram.com/dan_osuoha/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border-radius: 5px;" />
   </a>
 </p>
