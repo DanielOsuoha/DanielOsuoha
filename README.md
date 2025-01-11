@@ -67,9 +67,9 @@ I am passionate about **software development**, **Fintech**, and **data analysis
 
 | Project | Description | Tech Stack | View |
 |---------|-------------|------------|------|
-| **🔮 Stock and Crypto Price Tracker with Prediction** | A real-time price tracker with TensorFlow-based prediction models. | Flask, Python, JavaScript, HTML, CSS, jQuery, TensorFlow | [View Project](https://github.com/DanielOsuoha/Stock-Price-Tracker) |
-| **🚀 MultiCloud Deployment and Application Migration** | Multi-cloud deployment automation using Terraform and Kubernetes. | AWS, Google Cloud, Terraform, Kubernetes | [View Project](https://github.com/DanielOsuoha/multi-cloud-deployment) |
-| **🏦 Banking Application** | A secure online banking system with multi-factor authentication. | Django, PostgreSQL, JavaScript, HTML, CSS, AWS S3| [View Project](https://github.com/DanielOsuoha/Banking-App) |
+| **Crypto & Stock Price Predictor** | A real-time price tracker with TensorFlow-based prediction models. | Flask, Python, JavaScript, HTML, CSS, jQuery, TensorFlow | [View Project](https://github.com/DanielOsuoha/Stock-Price-Tracker) |
+| **Fullstack MultiCloud Deployment** | Multi-cloud deployment automation using Terraform and Kubernetes. | AWS, Google Cloud, Terraform, Kubernetes | [View Project](https://github.com/DanielOsuoha/multi-cloud-deployment) |
+| **Mobile Banking App** | A secure online banking system with multi-factor authentication. | Django, PostgreSQL, JavaScript, HTML, CSS, AWS S3| [View Project](https://github.com/DanielOsuoha/Banking-App) |
 
 ➡️ [View other projects](https://github.com/DanielOsuoha?tab=repositories)
 
@@ -79,7 +79,7 @@ I am passionate about **software development**, **Fintech**, and **data analysis
 - Software Engineering processes, Product Management strategies, or Data Analysis techniques.
 
 
-## ⚡ Fun fact and Interests:
+## Fun fact and Interests:
 In my free time, I keep up with recent trends, engage in competitive programming, and I play tennis sometimes.
 
 <!--
@@ -99,11 +99,16 @@ In my free time, I keep up with recent trends, engage in competitive programming
 
  ![](https://komarev.com/ghpvc/?username=danielosuoha&color=1E90FF&style=for-the-badge)
 
+## 📫 How to reach me:
+Feel free to connect with me!
 <p align="left">
-  <a href="https://www.linkedin.com/in/danielosuoha/" target="_blank" style="margin-right: 5px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 5px;" />
+    <a href="mailto:danielosuoha.dev@gmail.com" target="_blank" style="margin-right: 7px;">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius: 7px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/danielosuoha/" target="_blank" style="margin-right: 7px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 7px;" />
   </a>
   <a href="https://www.instagram.com/dan_osuoha/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border-radius: 5px;" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border-radius: 7px;" />
   </a>
 </p>
