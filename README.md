@@ -96,8 +96,8 @@ In my free time, I keep up with recent trends, engage in competitive programming
 
 ---
 -->
-
- ![](https://komarev.com/ghpvc/?username=danielosuoha&color=1E90FF&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=danielosuoha&color=1E90FF&style=for-the-badge&base=600" style="border-radius:6.5px">
+ 
 
 ## 📫 How to reach me:
 Feel free to connect with me!
