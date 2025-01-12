@@ -76,26 +76,26 @@ I am passionate about **software development**, **Fintech**, and **data analysis
 ---
 
 ## 💬 Ask me about ...
-- Software Engineering processes, Product Management strategies, or Data Analysis techniques.
+Software Engineering processes, Product Management strategies, or Data Analysis techniques.
 
 
 ## Fun fact and Interests:
 In my free time, I keep up with recent trends, engage in competitive programming, and I play tennis sometimes.
 
-<!--
----
-## 📊 GitHub Stats
 
-<p align="left">
+---
+## GitHub Stats
+
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=DanielOsuoha&show_icons=true&theme=tokyonight" alt="Daniel's GitHub Stats" />
-</p>
+</p> -->
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielOsuoha&theme=tokyonight" alt="Daniel's Streak Stats" />
 </p>
 
 ---
--->
+
 <img src="https://komarev.com/ghpvc/?username=danielosuoha&color=1E90FF&style=for-the-badge&base=600" style="border-radius:6.5px">
  
 
