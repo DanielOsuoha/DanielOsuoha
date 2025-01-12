@@ -65,11 +65,11 @@ I am passionate about **software development**, **Fintech**, and **data analysis
 
 ## 💼 Featured Projects
 
-| Project | Description | Tech Stack | View |
-|---------|-------------|------------|------|
-| **Crypto & Stock Price Predictor** | A real-time price tracker with TensorFlow-based prediction models. | Flask, Python, JavaScript, HTML, CSS, jQuery, TensorFlow | <a href="https://github.com/DanielOsuoha/Stock-Price-Tracker" style="text-decoration: none; color: darkgreen;">View Project</a> |
-| **Fullstack MultiCloud Deployment** | Multi-cloud deployment automation using Terraform and Kubernetes. | AWS, Google Cloud, Terraform, Kubernetes | <a href="https://github.com/DanielOsuoha/multi-cloud-deployment" style="text-decoration: none; color: darkgreen;">View Project</a> |
-| **Mobile Banking App** | A secure online banking system with multi-factor authentication. | Django, PostgreSQL, JavaScript, HTML, CSS, AWS S3| <a href="https://github.com/DanielOsuoha/Banking-App" style="text-decoration: none; color: darkgreen;">View Project</a> |
+ Project | Description | Tech Stack | View 
+---------|-------------|------------|------
+ **Crypto & Stock Price Predictor** | A real-time price tracker with TensorFlow-based prediction models. | Flask, Python, JavaScript, HTML, CSS, jQuery, TensorFlow | <a href="https://github.com/DanielOsuoha/Stock-Price-Tracker" style="text-decoration: none; color: darkgreen;">View Project</a> 
+ **Fullstack MultiCloud Deployment** | Multi-cloud deployment automation using Terraform and Kubernetes. | AWS, Google Cloud, Terraform, Kubernetes | <a href="https://github.com/DanielOsuoha/multi-cloud-deployment" style="text-decoration: none; color: darkgreen;">View Project</a> 
+ **Mobile Banking App** | A secure online banking system with multi-factor authentication. | Django, PostgreSQL, JavaScript, HTML, CSS, AWS S3| <a href="https://github.com/DanielOsuoha/Banking-App" style="text-decoration: none; color: darkgreen;">View Project</a> 
 
 ➡️ [View other projects](https://github.com/DanielOsuoha?tab=repositories)
 
