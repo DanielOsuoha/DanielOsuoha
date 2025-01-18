@@ -2,23 +2,33 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=4999&pause=1300&color=C9E3F4&background=000000&center=true&vCenter=true&width=1038&height=85&lines=Hi%2C+I+am+Daniel+Osuoha+%F0%9F%91%8B%F0%9F%8F%BD)](https://git.io/typing-svg)
 
-
-<h4 align="left" style="padding: 15px; margin: 15px;">I am a double major in Computer Science & Cloud Computing at Grambling State University. With a strong passion for math, I love diving deep into bugs and code to find solutions and create impactful technology.</h3>
+<h4 align="left" style="background-color: #000000; padding: 15px; margin: 15px; color: white;">
+I am a double major in Computer Science & Cloud Computing at Grambling State University. With a strong passion for math, I love diving deep into bugs and code to find solutions and create impactful technology.
+</h4>
 
 ---
 
 ## 🔭 About Me
-I am passionate about **software development**, **Fintech**, and **data analysis**. This GitHub repository is a meant to showcase my learning journey and hands-on projects. Currently, I am looking for **Software Engineering**, **Product Management**, and **Quant internships** to further hone my skills, gain experience and work on impactful projects.
+
+<span style="background-color: #000000; color: white;">
+I am passionate about **software development**, **Fintech**, and **data analysis**. This GitHub repository showcases my learning journey and hands-on projects. Currently, I am looking for **Software Engineering**, **Product Management**, and **Quant internships** to further hone my skills, gain experience and work on impactful projects.
+</span>
 
 ### I am currently working on:
+
+<span style="background-color: #000000; color: white;">
 **Real-Time Credit Card Fraud Detection System**  
 *Technologies: Apache Spark, Kafka, Cassandra, Java, Scala, Airflow*  
-- A real-time fraud detection system using Apache Spark for distributed processing and Kafka for streaming transaction data
-- Implementing machine learning models with Spark ML, utilizing techniques like StringIndexer and VectorAssembler for effective data classification
+- A real-time fraud detection system using Apache Spark for distributed processing and Kafka for streaming transaction data  
+- Implementing machine learning models with Spark ML, utilizing techniques like StringIndexer and VectorAssembler for effective data classification  
 - Automating workflows using Apache Airflow to schedule and monitor Spark jobs, ensuring reliable and efficient fraud detection
+</span>
 
 ### 🌱 I am currently learning:
+
+<span style="background-color: #000000; color: white;">
 **React and Machine Learning**
+</span>
 
 ---
 
@@ -26,7 +36,7 @@ I am passionate about **software development**, **Fintech**, and **data analysis
 
 ### Languages
 
-<p align="left">
+<p align="left" style="background-color: #000000; color: white;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -39,7 +49,7 @@ I am passionate about **software development**, **Fintech**, and **data analysis
 
 ### Frameworks & Tools
 
-<p align="left">
+<p align="left" style="background-color: #000000; color: white;">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -49,10 +59,9 @@ I am passionate about **software development**, **Fintech**, and **data analysis
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-
 ### Cloud & DevOps
 
-<p align="left">
+<p align="left" style="background-color: #000000; color: white;">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
