@@ -80,8 +80,7 @@ Software Engineering processes, Product Management strategies, or Data Analysis 
 
 
 ## Fun fact and Interests:
-In my free time, I keep up with recent trends, engage in competitive programming, and I play tennis sometimes.
-
+When I’m not keeping up with the latest tech trends, I enjoy reading tech books and exploring new ideas in innovation. I also hit the tennis court occasionally.
 
 ---
 ## GitHub Stats
