@@ -21,7 +21,7 @@ I am passionate about **software development**, **Fintech**, and **data analysis
 **React and Machine Learning**
 
 ---
-
+---
 ## ⚙️ Skills & Technologies
 
 ### Languages
@@ -36,7 +36,7 @@ I am passionate about **software development**, **Fintech**, and **data analysis
 </p>
 
 ---
-
+---
 ### Frameworks & Tools
 
 <p align="left">
@@ -62,7 +62,7 @@ I am passionate about **software development**, **Fintech**, and **data analysis
 </p>
 
 ---
-
+---
 ## 💼 Featured Projects
 
  Project | Description | Tech Stack | View |
@@ -73,6 +73,7 @@ I am passionate about **software development**, **Fintech**, and **data analysis
 
 ➡️ [View other projects](https://github.com/DanielOsuoha?tab=repositories)
 
+---
 ---
 
 ## 💬 Ask me about ...
@@ -94,9 +95,9 @@ When I’m not keeping up with the latest tech trends, I enjoy reading tech book
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielOsuoha&theme=tokyonight" alt="Daniel's Streak Stats" />
 </p>
----
 
 <img src="https://komarev.com/ghpvc/?username=danielosuoha&color=1E90FF&style=for-the-badge&base=600" style="border-radius:6.5px">
+---
  
 
 ## 📫 How to reach me:
