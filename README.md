@@ -5,7 +5,6 @@
 
 <h4 align="left" style="padding: 15px; margin: 15px;">I am a double major in Computer Science & Cloud Computing at Grambling State University. With a strong passion for math, I love diving deep into bugs and code to find solutions and create impactful technology.</h3>
 
----
 
 ## 🔭 About Me
 I am passionate about **software development**, **Fintech**, and **data analysis**. This GitHub repository is a meant to showcase my learning journey and hands-on projects. Currently, I am looking for **Software Engineering**, **Product Management**, and **Quant internships** to further hone my skills, gain experience and work on impactful projects.
@@ -21,7 +20,7 @@ I am passionate about **software development**, **Fintech**, and **data analysis
 **React and Machine Learning**
 
 ---
----
+
 ## ⚙️ Skills & Technologies
 
 ### Languages
@@ -35,8 +34,6 @@ I am passionate about **software development**, **Fintech**, and **data analysis
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
 </p>
 
----
----
 ### Frameworks & Tools
 
 <p align="left">
@@ -62,7 +59,6 @@ I am passionate about **software development**, **Fintech**, and **data analysis
 </p>
 
 ---
----
 ## 💼 Featured Projects
 
  Project | Description | Tech Stack | View |
@@ -74,13 +70,12 @@ I am passionate about **software development**, **Fintech**, and **data analysis
 ➡️ [View other projects](https://github.com/DanielOsuoha?tab=repositories)
 
 ---
----
 
-## 💬 Ask me about ...
+### 💬 Ask me about ...
 Software Engineering processes, Product Management strategies, or Data Analysis techniques.
 
 
-## Fun fact and Interests:
+### Fun fact and Interests:
 When I’m not keeping up with the latest tech trends, I enjoy reading tech books and exploring new ideas in innovation. I also hit the tennis court occasionally.
 
 ---
@@ -98,7 +93,6 @@ When I’m not keeping up with the latest tech trends, I enjoy reading tech book
 
 <img src="https://komarev.com/ghpvc/?username=danielosuoha&color=1E90FF&style=for-the-badge&base=600" style="border-radius:6.5px">
 ---
- 
 
 ## 📫 How to reach me:
 Feel free to connect with me!
