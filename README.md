@@ -97,7 +97,7 @@ When I’m not keeping up with the latest tech trends, I enjoy reading tech book
 ## 📫 How to reach me:
 Feel free to connect with me!
 <p align="left">
-  <a href="https://www.instagram.com/dan_osuoha/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border-radius: 7px;" />
+  <a href="https://www.linkedin.com/in/danielosuoha/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 7px;" />
   </a>
 </p>
