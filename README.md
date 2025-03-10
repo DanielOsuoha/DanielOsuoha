@@ -4,7 +4,6 @@
 
 
 
-
 <h4 align="left" style="padding: 15px; margin: 15px;">I am a double major in Computer Science & Cloud Computing at Grambling State University. With a strong passion for math, I love diving deep into bugs and code to find solutions and create impactful technology. </h3>
 
 
