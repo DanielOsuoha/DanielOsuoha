@@ -1,6 +1,7 @@
 ![banner](https://github.com/DanielOsuoha/DanielOsuoha/assets/122853068/df16838b-278b-49bc-96de-6e0c58cbe59a)
 
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=4999&pause=1300&color=C9E3F4&background=000000&center=true&vCenter=true&width=1038&height=85&lines=Hi%2C+I+am+Daniel+Osuoha+%F0%9F%91%8B%F0%9F%8F%BD)](https://git.io/typing-svg)
 
 
