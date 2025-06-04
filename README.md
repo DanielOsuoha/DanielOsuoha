@@ -1,4 +1,4 @@
-![banner](https://github.com/DanielOsuoha/DanielOsuoha/assets/122853068/df16838b-278b-49bc-96de-6e0c58cbe59a)
+![banner](https://github.com/user-attachments/assets/8780ca92-6bf5-4724-b9f1-aca315ce41fa)
 
 
 
