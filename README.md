@@ -10,7 +10,7 @@
 
 
 
-## 🔭 About Me
+## About Me
 I am passionate about **software development**, **Fintech**, and **data analysis**. This GitHub repository is meant to showcase my learning journey and hands-on projects. Currently, I am looking for **Software Engineering**, **Product Management**, and **Quant internships** to further hone my skills, gain experience, and work on impactful projects.
 
 
