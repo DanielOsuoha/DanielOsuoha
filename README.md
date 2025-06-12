@@ -64,7 +64,7 @@ I am passionate about **software development**, **Fintech**, and **data analysis
 </p>
 
 ---
-## 💼 Featured Projects
+## Featured Projects
 
  Project | Description | Tech Stack | View |
 ---------|-------------|------------|------|
