@@ -90,7 +90,7 @@ When I’m not keeping up with the latest tech trends, I enjoy reading tech book
 
 <img src="https://komarev.com/ghpvc/?username=danielosuoha&color=1E90FF&style=for-the-badge&base=600" style="border-radius:6.5px;"/>
 
-## 📫 How to reach me:
+## How to reach me:
 Feel free to connect with me!
 <p align="left">
   <a href="https://www.linkedin.com/in/danielosuoha/" target="_blank">
