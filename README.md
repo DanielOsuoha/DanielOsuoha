@@ -13,14 +13,6 @@
 ## About Me
 I am passionate about **software development**, **Fintech**, and **data analysis**. This GitHub repository is meant to showcase my learning journey and hands-on projects. Currently, I am looking for **Software Engineering**, **Product Management**, and **Quant internships** to further hone my skills, gain experience, and work on impactful projects.
 
-
-### I am currently working on:
-**Real-Time Credit Card Fraud Detection System**  
-*Technologies: Apache Spark, Kafka, Cassandra, Java, Scala, Airflow*  
-- A real-time fraud detection system using Apache Spark for distributed processing and Kafka for streaming transaction data
-- Implementing machine learning models with Spark ML, utilizing techniques like StringIndexer and VectorAssembler for effective data classification
-- Automating workflows using Apache Airflow to schedule and monitor Spark jobs, ensuring reliable and efficient fraud detection
-
 ### 🌱 I am currently learning:
 **React and Machine Learning**
 
