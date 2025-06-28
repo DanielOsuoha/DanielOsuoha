@@ -6,6 +6,7 @@
 
 <h4 align="left" style="padding: 15px; margin: 15px;">I am a double major in Computer Science & Cloud Computing at Grambling State University. With a strong passion for math, I love diving deep into bugs and code to find solutions and create impactful technology. </h3>
 
+
 ## About Me
 I am passionate about **software development**, **Fintech**, and **data analysis**. This GitHub repository is meant to showcase my learning journey and hands-on projects. Currently, I am looking for **Software Engineering**, **Product Management**, and **Quant internships** to further hone my skills, gain experience, and work on impactful projects.
 
