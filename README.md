@@ -26,6 +26,7 @@ I am passionate about **software development**, **Fintech**, and **data analysis
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
+
 ### Frameworks & Tools
 
 <p align="left">
