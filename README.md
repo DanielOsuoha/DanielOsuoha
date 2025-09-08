@@ -12,6 +12,7 @@ I am passionate about **software development**, **Fintech**, and **data analysis
 ### 🌱 I am currently learning:
 **React and Machine Learning**
 
+
 ---
 
 ## ⚙️ Skills & Technologies
