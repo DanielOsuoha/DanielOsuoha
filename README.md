@@ -68,9 +68,6 @@ When I’m not keeping up with the latest tech trends, I enjoy reading tech book
 </p> 
 -->
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielOsuoha&theme=tokyonight" alt="Daniel's Streak Stats" />
-</p>
 
 <img src="https://komarev.com/ghpvc/?username=danielosuoha&color=1E90FF&style=for-the-badge&base=600" style="border-radius:6.5px;"/>
 
