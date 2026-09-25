@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/8780ca92-6bf5-4724-b9f1-aca315ce41fa)
+![banner](https://github.com/user-attachments/assets/86181053-7d37-47af-878f-b3f8b40eacda)
 
 I’m a Computer Science major at Grambling State University with a concentration in Cloud Computing. I’ve worked on software and AI products at Google and Microsoft, and I’m pursuing a career in software engineering.
 
