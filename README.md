@@ -12,7 +12,7 @@ I am passionate about **software development**, **Fintech**, and **data analysis
 
 ---
 
-## ⚙️ Skills & Technologies
+## Languages and Frameworks/Tools
 
 ### Languages
 
